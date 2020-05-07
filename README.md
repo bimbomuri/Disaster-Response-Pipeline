@@ -40,8 +40,8 @@ In this folder I have a python script for running the web app and web templates.
     
     
 **Screenshots of the Web App:**
-
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+  
+  Screenshots from the web app have been added to this [Repo](http://www.google.fr/ "repo")
   
   
   
